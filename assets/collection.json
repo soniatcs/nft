@@ -1,0 +1,27 @@
+{
+    "image": "collection.png",
+    "name": "10 numbers",
+    "description": "Collection of 10 numbers on the blockchain.",
+    "symbol": "NB",
+    "attributes": [
+      {
+        "trait_type": "collection",
+        "value": "yep"
+      }
+    ],
+    "seller_fee_basis_points": 500,
+    "properties": {
+      "creators": [
+        {
+          "address": "6tNUgGJgBuJbQMiMhMkuxN83eWzYTomtxCyaPGYXFw4b",
+          "share": 100
+        }
+      ],
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

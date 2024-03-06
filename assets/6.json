@@ -1,0 +1,19 @@
+{
+    "name": "Number #0007",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 7/10.",
+    "seller_fee_basis_points": 500,
+    "image": "6.png",
+    "attributes": [
+        {"trait_type": "Category", "value": "Bud"},
+        {"trait_type": "Type", "value": "Grass"},
+        {"trait_type": "Type", "value": "Poison"}, 
+        {"trait_type": "Abilities", "value": "Natural Cure"},
+        {"trait_type": "Abilities", "value": "Poison Point"}
+    ],
+    "properties": {
+        "category": "image",
+        "files": [{"uri": "6.png", "type": "image/png"}]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+}

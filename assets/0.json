@@ -1,0 +1,19 @@
+{
+    "name": "Number #0001",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {"trait_type": "Category", "value": "Weather"},
+        {"trait_type": "Type", "value": "Normal"},
+        {"trait_type": "Type", "value": "None"}, 
+        {"trait_type": "Abilities", "value": "Forecast"},
+        {"trait_type": "Abilities", "value": "None"}
+    ],
+    "properties": {
+        "category": "image",
+        "files": [{"uri": "0.png", "type": "image/png"}]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+}

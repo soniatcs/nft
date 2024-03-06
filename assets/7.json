@@ -1,0 +1,19 @@
+{
+    "name": "Number #0008",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 8/10.",
+    "seller_fee_basis_points": 500,
+    "image": "7.png",
+    "attributes": [
+        {"trait_type": "Category", "value": "Disaster"},
+        {"trait_type": "Type", "value": "Normal"},
+        {"trait_type": "Type", "value": "Dark"}, 
+        {"trait_type": "Abilities", "value": "Pressure"},
+        {"trait_type": "Abilities", "value": "Super Luck"}
+    ],
+    "properties": {
+        "category": "image",
+        "files": [{"uri": "7.png", "type": "image/png"}]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+}

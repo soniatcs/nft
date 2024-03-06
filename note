@@ -1,0 +1,13 @@
+Wrote new keypair to ./keypair.json
+=========================================================================
+pubkey: 6tNUgGJgBuJbQMiMhMkuxN83eWzYTomtxCyaPGYXFw4b
+=========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+junior roast state ritual faculty magic soup left bachelor ivory egg hurt
+=========================================================================
+
+Collection mint ID: 93sGgXkdqcHP41qfZyXN56ZyzMXsaPBuTozcfaoSDhnD
+
+Candy machine ID: 98KwkabQvC8FsrHWJMM3ZHQMnuxogUkUE2GxzA6YRNj4 
+
+yarn add @metaplex-foundation/mpl-candy-machine@alpha @metaplex-foundation/mpl-token-metadata@alpha @metaplex-foundation/mpl-toolbox @metaplex-foundation/umi @metaplex-foundation/umi-bundle-defaults @metaplex-foundation/umi-signer-wallet-adapters

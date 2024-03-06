@@ -1,0 +1,19 @@
+{
+    "name": "Number #0003",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 3/10.",
+    "seller_fee_basis_points": 500,
+    "image": "2.png",
+    "attributes": [
+        {"trait_type": "Category", "value": "Orgre Daner"},
+        {"trait_type": "Type", "value": "Bug"},
+        {"trait_type": "Type", "value": "Flying"}, 
+        {"trait_type": "Abilities", "value": "Speed boost"},
+        {"trait_type": "Abilities", "value": "Tinted Lens"}
+    ],
+    "properties": {
+        "category": "image",
+        "files": [{"uri": "2.png", "type": "image/png"}]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+}
